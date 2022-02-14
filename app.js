@@ -38,7 +38,7 @@ app.get('/mealtype',(req,res) => {
     })
 })
 
-/
+
 
 //restaurents
 app.get('/restaurants',(req,res) => {
